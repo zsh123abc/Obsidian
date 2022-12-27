@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "60149b63314c5fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "51aeb764ffc68e4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python/python语法.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5bd22fa4f4d10078",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebff8ee04d6d5cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6985aad0766d7cc5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc066e189bf29390",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01d00c41febb38ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "2d60ef5c67f20069",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b72d8a7590992",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf5d9c73accff33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/python语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22d2dbae788eae17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/python语法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b27483030fb39d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b53cd9a37fff37a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/python语法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6985aad0766d7cc5",
+  "lastOpenFiles": [
+    "9.29.md",
+    "标注.md",
+    "未命名 1.md",
+    "python/python语法.md",
+    "2022-10-14.md",
+    "Scarpy/python知识点.md",
+    "Scarpy/scrapy知识点 1.md",
+    "Scarpy/Scrapy vscode 断点调试.md",
+    "Scarpy/scrapy知识点.md",
+    "Scarpy/scrapy.md"
+  ]
+}
