@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa702c2430a58502",
+        "id": "e5a59ed8c03c2b89",
         "type": "tabs",
         "children": [
           {
-            "id": "d27aa9f7f950b8b0",
+            "id": "e0ade0d57010baab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask/flask配置日志.md",
+                "file": "curl.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2d60ef5c67f20069",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flask/flask配置日志.md",
+                "file": "curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flask/flask配置日志.md",
+                "file": "curl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flask/flask配置日志.md"
+                "file": "curl.md"
               }
             }
           }
@@ -144,20 +145,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "d27aa9f7f950b8b0",
+  "active": "e0ade0d57010baab",
   "lastOpenFiles": [
+    "日期/12.28.md",
+    "python 调试器之pdb.md",
     "日期/12.16.md",
     "日期/12.15.md",
-    "日期/12.14.md",
-    "日期/12.12.md",
-    "日期/12.8.md",
-    "日期/11.26.md",
-    "日期/11.1.md",
-    "日期/9.29.md",
-    "git.md",
-    "http get,post,put,delete.md"
+    "标注.md",
+    "viscode远程调试.md",
+    "requirement.txt.md",
+    "pip国内镜像源地址.md",
+    "flask/request.md",
+    "日期/11.26.md"
   ]
 }
