@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e5a59ed8c03c2b89",
+        "id": "8958f6040a5f7db2",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ade0d57010baab",
+            "id": "6ee65ce8d66502bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl.md",
+                "file": "socket.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7981e3e40c4e97c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "socket.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2d60ef5c67f20069",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "curl.md",
+                "file": "socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "curl.md",
+                "file": "socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "curl.md"
+                "file": "socket.md"
               }
             }
           }
@@ -150,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e0ade0d57010baab",
+  "active": "7981e3e40c4e97c1",
   "lastOpenFiles": [
-    "日期/12.28.md",
-    "python 调试器之pdb.md",
-    "日期/12.16.md",
-    "日期/12.15.md",
-    "标注.md",
-    "viscode远程调试.md",
-    "requirement.txt.md",
+    "Fiddler.md",
+    "HTTP.md",
+    "socket.md",
+    "nginx/反向代理访问python flask站点.md",
     "pip国内镜像源地址.md",
-    "flask/request.md",
-    "日期/11.26.md"
+    "nginx/配置静态服务.md",
+    "docker/docker 建一个nginx容器，对外提供静态文件服务.md",
+    "curl.md",
+    "标注.md",
+    "viscode远程调试.md"
   ]
 }

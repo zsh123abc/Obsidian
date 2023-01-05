@@ -9,3 +9,11 @@ v2ex	 http://pypi.v2ex.com/simple/
 清华大学	 https://pypi.tuna.tsinghua.edu.cn/simple/
 
 -i 
+
+修改pip安装路径
+
+
+python -m site
+`D:\ANACONDA_3520\lib\site.py`
+
+python -m site -help
