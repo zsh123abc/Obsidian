@@ -1,3 +1,5 @@
+远程调试
+
 vscode远程调试python：
 https://blog.csdn.net/weixin_43632687/article/details/124108274
 
@@ -35,3 +37,7 @@ chmod 600 .ssh/authorized_keys
 6，在viscode中连接远程服务器
 
 ctrl+f 文件内搜索
+
+
+vscode全局批量添加引号（其他符合添加同理）
+https://blog.csdn.net/qq_43783527/article/details/124466701

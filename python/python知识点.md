@@ -16,3 +16,6 @@
 	https://blog.csdn.net/weixin_29616999/article/details/113673492
 	https://blog.csdn.net/weixin_53466908/article/details/122590658
 	https://www.jb51.net/article/242656.htm
+
+Python 中 if not 的用法
+https://blog.csdn.net/u010447297/article/details/84976242?ops_request_misc=&request_id=&biz_id=102&utm_term=python%20if%20not&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-84976242.142^v70^js_top,201^v4^add_ask&spm=1018.2226.3001.4187

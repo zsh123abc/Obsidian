@@ -16,3 +16,5 @@ https://blog.csdn.net/bigconvience/article/details/7028755
 2、输入要查找的数据。
 3、按Enter执行搜索。
 4、按n查找下一个事件，或按N查找上一个事件。
+
+C:\Users\cwj\AppData\Local\Kingsoft\WPS Office\

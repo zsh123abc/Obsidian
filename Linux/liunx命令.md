@@ -20,3 +20,7 @@ clear命令
 新建文件夹：mkdir
 新建文件：touch
 查找文件：locate
+
+
+
+

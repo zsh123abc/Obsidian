@@ -1,3 +1,7 @@
+MySQLWorkbench 打不开解决方法
+https://blog.csdn.net/qq_38264939/article/details/124824802
+
+
 登录密码：123456
 
 进入mysql的bin目录

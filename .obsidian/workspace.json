@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8958f6040a5f7db2",
+        "id": "cfce0c53a64faa07",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee65ce8d66502bc",
+            "id": "5986c27c8f90b48f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "socket.md",
+                "file": "数据结构与算法分析.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7981e3e40c4e97c1",
+            "id": "5a36e7798091cdb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "socket.md",
+                "file": "标注.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "socket.md",
+                "file": "数据结构与算法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +114,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "socket.md",
-                "linksCollapsed": false,
+                "file": "数据结构与算法分析.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "socket.md"
+                "file": "数据结构与算法分析.md"
               }
             }
           }
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +160,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7981e3e40c4e97c1",
+  "active": "5986c27c8f90b48f",
   "lastOpenFiles": [
-    "Fiddler.md",
-    "HTTP.md",
-    "socket.md",
-    "nginx/反向代理访问python flask站点.md",
-    "pip国内镜像源地址.md",
-    "nginx/配置静态服务.md",
-    "docker/docker 建一个nginx容器，对外提供静态文件服务.md",
-    "curl.md",
     "标注.md",
-    "viscode远程调试.md"
+    "python 调试器之pdb.md",
+    "数据结构与算法/递归.md",
+    "数据结构与算法分析.md",
+    "Fiddler.md",
+    "git.md",
+    "curl.md",
+    "Linux/Linux vi编辑器.md",
+    "Linux/linux ps命令.md",
+    "Linux/linux cat命令.md"
   ]
 }
