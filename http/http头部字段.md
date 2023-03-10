@@ -33,3 +33,4 @@ Transfer-Encoding: chunked：数据以分块的形式发送，这种情况，Con
 http请求编码格式为ASCII
 MIME type :传输body的类型text/xml，Encoding type :body内容的压缩类型gzip
 客户端和服务器进行内容协商，客户端用Accept头告诉服务器可以理解的数据类型，服务器用Content头告诉客户端实际发送数据的类型
+Content-Type:

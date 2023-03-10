@@ -92,3 +92,5 @@ https://code.17yund.me/ai/label_system_grpc_server.git
 
 
 
+apt-get update
+apt-get install vim

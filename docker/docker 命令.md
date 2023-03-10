@@ -10,6 +10,10 @@ docker kill 容器ID/容器名
 ```shell
 docker stop 容器ID/容器名
 ```
+重启容器：
+```shell
+docker restart 容器ID/容器名
+```
 删除一个容器
 docker rm -f 容器名/容器ID
 删除多个容器 空格隔开要删除的容器名或容器ID
@@ -121,3 +125,8 @@ docker-compose.yml文件路径：
 volumes:
       - "/home/yd/flask:/yd"
     command: /ibin/bash -c "cd /yd/ && nohup python3 ComputeServicer.py &"
+
+
+
+
+

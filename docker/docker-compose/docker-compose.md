@@ -11,6 +11,6 @@ docker-compose ps
 ```
 
 -d后台运行compose
-```f
+```
 docker-compose up -d  
 ```

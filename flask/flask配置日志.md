@@ -21,3 +21,11 @@ flask调用同时生成日志
         logging.getLogger().addHandler(file_log_handler)
         
 app = Flask(__name__)
+
+
+
+video_info:['/zsh/videos/', 'mp4', ['train_13'], [1004190]]
+
+/zsh/videos/,train_13,
+/zsh/label_data/images/,
+/data/dataset/zsh/videos/train_13.mp4,
