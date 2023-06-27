@@ -9,5 +9,6 @@
   "promptDelete": false,
   "showFrontmatter": true,
   "spellcheck": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "vimMode": false
 }

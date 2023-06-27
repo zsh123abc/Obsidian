@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cfce0c53a64faa07",
+        "id": "ec0d835b225f8ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "8417c7e464e99e7e",
+            "id": "7e4a959cd9942f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "标注.md",
+                "file": "Linux/liunx命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bd5893aa469b305",
+            "id": "dfb0de4588eae252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pip国内镜像源地址.md",
+                "file": "Linux/pip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4af37ba85a82eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "labelme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "729244dc37c96319",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -97,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "标注.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "标注.md",
+                "file": "git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +158,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "标注.md"
+                "file": "git.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,33 +181,44 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8417c7e464e99e7e",
+  "active": "b4af37ba85a82eac",
   "lastOpenFiles": [
-    "flask/request.md",
-    "flask/flask配置日志.md",
-    "grpc/grpc命令.md",
-    "docker/docker 建一个nginx容器，对外提供静态文件服务.md",
-    "docker/docker部署镜像/docker部署flask.md",
-    "docker/docker 命令.md",
-    "标注.md",
+    "配置代理服务器.md",
+    "标注/标注.md",
+    "企业微信截图_16878648087092.png",
+    "企业微信截图_16878647314800.png",
+    "Linux/pip.md",
     "Linux/liunx命令.md",
-    "pip国内镜像源地址.md",
+    "git.md",
+    "paddle/模型训练.md",
+    "Linux/Ubuntu网络配置.md",
+    "docker/docker部署镜像/docker部署flask.md",
+    "docker/docker部署镜像/docker部署镜像三种方法.md",
     "docker/docker-compose/dockerfile 与 docker-compose的区别.md",
+    "docker/docker-compose/docker-compose.py的编写.md",
+    "docker/docker-compose/docker-compose.md",
+    "docker/docker-compose/docker command.md",
     "docker/docker-compose/docker 运行grpc程序.md",
     "docker/docker-compose/容器通信.md",
-    "docker/docker部署镜像/docker部署镜像三种方法.md",
-    "容器里安装opencv.md",
-    "数据标注管理系统.md",
-    "Linux/Linux vi编辑器.md",
-    "Linux/linux ps命令.md",
+    "curl.md",
+    "146.md",
+    "Linux/磁盘设置.md",
     "Linux/linux cat命令.md",
-    "Linux/grep命令.md",
-    "数据结构与算法分析.md",
-    "3.2.md",
-    "http/http头部字段.md",
-    "http/http报头.md",
-    "http/上传文件.md",
-    "日期/3.3.md",
-    "docker/docker-compose/docker-compose.py的编写.md"
+    "Linux/socket.md",
+    "Linux/Linux vi编辑器.md",
+    "未命名",
+    "python/爬虫.md",
+    "docker/docker 命令.md",
+    "日期/11.1.md",
+    "Linux/linux ps命令.md",
+    "paddle",
+    "图片/UMH0J1IK3UDC7@ED7D4C4BX.png",
+    "图片/I@$RIL)7BJGCBBZ$_1)CD%1.png",
+    "Scarpy/爬虫运行参数.png",
+    "3.21/grpc",
+    "3.21/nginx/配置反向代理",
+    "3.21/nginx",
+    "3.21",
+    "标注"
   ]
 }

@@ -4,7 +4,7 @@ pip install opencv-python 报错
 报错：AttributeError: module 'cv2' has no attribute 'VideoCapture'
 表示版本太高不兼容，把opencv版本降低一点
 
-
+opencv版本不要安装太高，容易报错
 
 
 容器里：

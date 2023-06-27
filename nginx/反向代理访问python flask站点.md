@@ -1,4 +1,4 @@
-启动一个flask app.py
+ 启动一个flask app.py
 if __name__ == '__main__':
     app.run(host='0.0.0.0',port=8080)
 

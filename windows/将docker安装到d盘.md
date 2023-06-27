@@ -23,3 +23,6 @@ Settings -> Resources -> Advanced -> Disk image location
 设置完，安装位置和镜像存放位置都在d盘
 
 https://blog.csdn.net/liangcsdn111/article/details/110236655
+
+彻底解决win10 docker desktop镜像过大导致“C盘存储空间不足”的问题。
+https://www.codenong.com/cs110392568/

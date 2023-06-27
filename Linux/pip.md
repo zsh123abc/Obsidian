@@ -18,3 +18,5 @@ python -m site
 
 python -m site -help
 
+CentOS7上pip的安装方式
+https://blog.csdn.net/liumiaocn/article/details/103038746

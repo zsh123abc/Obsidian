@@ -38,9 +38,13 @@ docker nekwork inspect 网络名字NAME
 
 发生容器启动不了之类的错误
 查看最近30分钟的容器日志
+Docker logs 命令——查看docker容器日志：
+https://blog.csdn.net/weixin_39506322/article/details/119776737
 ```
 docker logs --since 30m 容器id
 ```
+
+
 
 查看容器完整信息：
 ```

@@ -18,7 +18,7 @@
 ！！！想要实现文件浏览，必须要在nginx.conf里的http{}里和default.conf里的server{}里添加autoindex on
 		docker nginx 把一个nginx.conf分成两个，
 		（nginx.cong）和（default.conf）
-		访问时：http://localhost:80/文件夹名字
+		访问时：http://localhost:80/nginx
 
 
 `docker run -p 8090:80 --name nginx-web4 -v C:\Users\cwj\myweb\nginx\conf.d\default.conf:/etc/nginx/conf.d/default.conf  -d nginx`
