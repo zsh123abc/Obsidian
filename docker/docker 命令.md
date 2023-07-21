@@ -1,3 +1,8 @@
+重启docker服务
+systemctl：用于控制和管理系统服务
+```
+sudo systemctl start docker
+```
 启动停止的容器：
 ```bash
 docker start
@@ -15,11 +20,17 @@ docker stop 容器ID/容器名
 docker restart 容器ID/容器名
 ```
 删除一个容器
+```
 docker rm -f 容器名/容器ID
+```
 删除多个容器 空格隔开要删除的容器名或容器ID
+```
 docker rm -f 容器名/容器ID 容器名/容器ID 容器名/容器ID
+```
 删除全部容器
+```
 docker rm -f $(docker ps -aq)
+```
 
 查看容器日志
 ```
@@ -45,7 +56,6 @@ docker logs --since 30m 容器id
 ```
 
 
-
 查看容器完整信息：
 ```
 docker ps -a --no-trunc
@@ -57,9 +67,6 @@ docker ps -a --no-trunc
 docker exec -it 容器id /bin/bash
 ```
 
-容器：
-	grpc/flask:cpu ：id：92ffe0d10cbf
-	cncowboy/label-system-backend-python:v1.0 ：id：8d2c83c77b83
 
 更换容器名
 ```
@@ -103,32 +110,6 @@ nohup python3 ComputeServicer.py &
 locate docker-compose.yml
 ```
 
-
-
-cd /home/yd/label_system/flask/python_restful_file_system/file
-
-
-docker-compose.yml文件路径：
-	/home/yd/label_system/docker-compose.yml
-
-挂载目录：
-	cncowboy/label-system-backend-python:v1.0：
-	挂载目录：
-		宿主机：/home/yd/label_system
-		容器：/apps
-	
-	grpc/flask:cpu ：
-	挂载目录：
-		宿主机：/flask
-		容器：/yd
-
-
-    command: /bin/bash -c "cd /flask/; nohup python3 ComputeServicer.py &; tail -f /dev/null"
-
-
-volumes:
-      - "/home/yd/flask:/yd"
-    command: /ibin/bash -c "cd /yd/ && nohup python3 ComputeServicer.py &"
 
 
 

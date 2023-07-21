@@ -5,8 +5,3 @@
 
 https://blog.csdn.net/DDFFR/article/details/77049118
 
-92ffe0d10cbf  grpc/flask:cpu
-/yd/client.py
-
-8d2c83c77b83  cncowboy/label-system-backend-python:v1.0
-/apps/flask/python_restful_file_system/file/client.py

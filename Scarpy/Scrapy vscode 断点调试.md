@@ -16,7 +16,6 @@ if __name__ == '__main__':
 　 启动时(必需先双击打开mian.py文件,在mian.py文件下点击运行-->启动调试，否则调试时报‘ModuleNotFoundError’错误)，断点调试后，可在控制台输入变量查看，如下所示：![[Pasted image 20221011100134.png]]![[Pasted image 20221011101036.png]]
 
 
-
 scrapy运行程序报错：
 AttributeError:'TelnetConsole' object has no attribute 'port'
 https://www.jianshu.com/p/d2a8e7641a51

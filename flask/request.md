@@ -25,5 +25,5 @@ URL请求参数: request.args
 上传文件请求：request.files
 ```python
     # 接收post请求上传的文件    
-    file = request.files.get('file'
+    file = request.files.get('file')
 ```

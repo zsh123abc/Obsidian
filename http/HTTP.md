@@ -58,11 +58,3 @@ tcp四次挥手：
 GET  /index.htm  HTTP/1.1
 ```
 
-
-
-GET /api/filetransfer/uploadfile?chunkNumber=1&chunkSize=1048576&currentChunkSize=1034&totalSize=1034&identifier=3fe29d57338142c5f888414955568229&filename=1326501901.mp4_test_0630.xml&relativePath=1326501901.mp4_test_0630.xml&totalChunks=1&filePath=%2Fzsh%2Flabel_data%2Fimages%2F&isDir=0 HTTP/1.1
-Host: 192.168.100.98:1080
-User-Agent: python-requests/2.28.1
-Accept-Encoding: gzip, deflate
-Accept: */*
-Connection: keep-alive

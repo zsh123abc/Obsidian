@@ -20,8 +20,10 @@
 		（nginx.cong）和（default.conf）
 		访问时：http://localhost:80/nginx
 
-
-`docker run -p 8090:80 --name nginx-web4 -v C:\Users\cwj\myweb\nginx\conf.d\default.conf:/etc/nginx/conf.d/default.conf  -d nginx`
+启动容器
+```
+docker run -p 8090:80 --name nginx-web4 -v C:\Users\cwj\myweb\nginx\conf.d\default.conf:/etc/nginx/conf.d/default.conf  -d nginx
+```
 
 
 location = /50x.html {

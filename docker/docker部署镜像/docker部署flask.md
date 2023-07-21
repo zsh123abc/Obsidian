@@ -2,21 +2,25 @@
 创建Dockerfile：
 	Dockerfile文件内容：
 	
-		其指定一个构建镜像的基础源镜像
-		FROM python:3.8
-	
-		用于指定 docker build 过程中要运行的命令
-		RUN pip install flask
+```
+其指定一个构建镜像的基础源镜像
+FROM python:3.8
+
+用于指定 docker build 过程中要运行的命令
+RUN pip install flask
+
+当前目录
+WORKDIR /app
+
+复制本机文件或目录或远程文件，添加到指定的容器目录
+COPY app.py /app/
+
+CMD在Dockerfile中只能出现一次，有多个，只有最后一个会有效
+如果用户执行docker run的时候提供了命令项，就会覆盖掉这个命令。没提供就会使用构建时的命令
+CMD ["python","app.py"]
+```
 		
-		当前目录
-		WORKDIR /app
-		
-		复制本机文件或目录或远程文件，添加到指定的容器目录
-		COPY app.py /app/
-		
-		CMD在Dockerfile中只能出现一次，有多个，只有最后一个会有效
-		如果用户执行docker run的时候提供了命令项，就会覆盖掉这个命令。没提供就会使用构建时的命令
-		CMD ["python","app.py"]
+
 
 
 cd到flask项目主目录下开始build：
@@ -87,10 +91,5 @@ location / images {
         alias   \myweb\images;
         autoindex on;
     }
-git@code.17yund.me:ai/label_system_grpc_server.git
-https://code.17yund.me/ai/label_system_grpc_server.git
 
 
-
-apt-get update
-apt-get install vim

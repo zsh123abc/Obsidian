@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0d835b225f8ed6",
+        "id": "c87b094f0b77eff6",
         "type": "tabs",
         "children": [
           {
-            "id": "7e4a959cd9942f06",
+            "id": "f4ce1044bc8ddd89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/liunx命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb0de4588eae252",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/pip.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4af37ba85a82eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
+                "file": "paddle/模型训练.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "labelme",
+                "query": "git clone 太慢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +66,7 @@
             }
           },
           {
-            "id": "729244dc37c96319",
+            "id": "1f3b68efb4a9b465",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 308.5
   },
   "right": {
     "id": "2d60ef5c67f20069",
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "paddle/模型训练.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "paddle/模型训练.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "paddle/模型训练.md"
               }
             }
           }
@@ -181,40 +156,42 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b4af37ba85a82eac",
+  "active": "6985aad0766d7cc5",
   "lastOpenFiles": [
-    "配置代理服务器.md",
-    "标注/标注.md",
-    "企业微信截图_16878648087092.png",
-    "企业微信截图_16878647314800.png",
-    "Linux/pip.md",
-    "Linux/liunx命令.md",
-    "git.md",
+    "labelme.md",
     "paddle/模型训练.md",
-    "Linux/Ubuntu网络配置.md",
-    "docker/docker部署镜像/docker部署flask.md",
-    "docker/docker部署镜像/docker部署镜像三种方法.md",
-    "docker/docker-compose/dockerfile 与 docker-compose的区别.md",
-    "docker/docker-compose/docker-compose.py的编写.md",
-    "docker/docker-compose/docker-compose.md",
-    "docker/docker-compose/docker command.md",
-    "docker/docker-compose/docker 运行grpc程序.md",
-    "docker/docker-compose/容器通信.md",
-    "curl.md",
-    "146.md",
+    "git/windows访问github太慢.md",
+    "未命名.md",
+    "git/git命令.md",
+    "git",
+    "Linux/liunx命令.md",
+    "Linux/Ubuntu安装python3.10.6.md",
+    "paddle/VisualDL可视化.md",
     "Linux/磁盘设置.md",
-    "Linux/linux cat命令.md",
+    "Linux/pip.md",
+    "Linux/requests.md",
+    "Linux/requirement.txt.md",
+    "Linux/scp传输.md",
     "Linux/socket.md",
-    "Linux/Linux vi编辑器.md",
-    "未命名",
-    "python/爬虫.md",
-    "docker/docker 命令.md",
-    "日期/11.1.md",
-    "Linux/linux ps命令.md",
+    "Linux/Ubuntu网络配置.md",
+    "viscode.md",
+    "Fiddler.md",
+    "Diffusion WebUI.md",
+    "curl.md",
+    "使用 Docker 来快速上手中文 Stable Diffusion 模型：太乙.md",
+    "配置代理服务器.md",
+    "3.1爬取微信小程序音频.md",
+    "未命名.canvas",
+    "146.md",
+    "7.8.md",
+    "http/上传文件.md",
+    "图片/pezjgd78.bmp",
+    "Scarpy/爬虫运行参数.png",
+    "图片/企业微信截图_16878647314800.png",
+    "图片/企业微信截图_16878648087092.png",
     "paddle",
     "图片/UMH0J1IK3UDC7@ED7D4C4BX.png",
     "图片/I@$RIL)7BJGCBBZ$_1)CD%1.png",
-    "Scarpy/爬虫运行参数.png",
     "3.21/grpc",
     "3.21/nginx/配置反向代理",
     "3.21/nginx",

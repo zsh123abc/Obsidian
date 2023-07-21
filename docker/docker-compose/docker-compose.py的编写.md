@@ -18,7 +18,10 @@ services:  #定义容器
 
 	顺序不对，程序运行不了
 	nginx不需要依赖grpc服务
- nginx:
+
+实例：
+ ```
+nginx:
     image: bitnami/nginx:1.20.2-debian-10-r128
     container_name: label_system_nginx
     ports:
@@ -33,3 +36,4 @@ services:  #定义容器
       - label-system-backend
       - label-system-backend-python
       - label-system-frontend
+```
