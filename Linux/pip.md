@@ -28,3 +28,15 @@ https://blog.csdn.net/liumiaocn/article/details/103038746
 basketball_frame  篮筐
 basket_net  篮筐+篮网
 backboard  篮板
+
+
+
+
+tokenizer = AutoTokenizer.from_pretrained("THUDM/chatglm-6b", trust_remote_code=True, mirror='https://mirrors.tuna.tsinghua.edu.cn/hugging-face-models')
+model = AutoModel.from_pretrained("THUDM/chatglm-6b", trust_remote_code=True, mirror='https://mirrors.tuna.tsinghua.edu.cn/hugging-face-models').half().quantize(4).cuda()
+
+
+
+https://www.bilibili.com/video/BV1za411Q79x/?spm_id_from=333.999.0.0
+
+https://www.bilibili.com/video/BV1UV4y1E7zQ/?spm_id_from=333.999.0.0

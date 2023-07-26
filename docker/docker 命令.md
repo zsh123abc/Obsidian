@@ -115,3 +115,10 @@ locate docker-compose.yml
 
 
 
+乒乓球训练数据：131：/data2/PaddleDetection2.6/dataset/7.21_ping-pang_v6
+羽毛球训练数据：146：/data2/PaddleDetection2.6/datasets/badminton
+
+所有原始数据：131：/data2/PaddleDetection2.6/dataset/small_ball
+
+
+/hdd11/data3

@@ -33,3 +33,6 @@ kill pid
 kill -9 pid
 ```
 
+
+
+/dev/sde
